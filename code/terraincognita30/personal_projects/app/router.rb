@@ -44,6 +44,7 @@ end
 def welcome_user
   puts "-----------------"
   puts "\nWelcome to the Library"
+  puts "독서파만권하필여유신"
   puts "\n-----------------"
 end
 

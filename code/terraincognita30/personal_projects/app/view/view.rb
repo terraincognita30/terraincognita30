@@ -16,9 +16,10 @@ def list_all(books)
       end
     end
   end
-end
 
 def ask_for_edit
   puts "Edit notes? Y/N"
   return gets.chomp
+end
+
 end

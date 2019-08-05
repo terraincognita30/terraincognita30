@@ -1,4 +1,4 @@
-require 'sqlite3'
+require "sqlite3"
 
 class Book
   attr_accessor :id, :title, :author, :total_length, :read_length, :finished,
